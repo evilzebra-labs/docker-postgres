@@ -1,0 +1,10 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "Run postgres in docker",
+  "scripts": {
+    "start": "docker-compose -f postgres.yml up"
+  },
+  "author": "Evilzebra",
+  "license": "ISC"
+}
